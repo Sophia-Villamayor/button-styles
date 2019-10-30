@@ -52,13 +52,14 @@ div a {
   color: #333;
   border-style: solid;
   border-width: 3px;
-  border-color: #666;
+  border-color: #000;
   background-color: #fff;
 }
 
 .btn-ghost:hover {
   color: #fff;
   background-color: #666;
+  border-color: #666;
 }
 
 .btn-warning {
