@@ -13,6 +13,7 @@ div {
 }
 
 div a {
+  color: #fff;
   padding: .4em .75em .3em;
   border-radius: 8px;
   border-width: 3px;
@@ -23,23 +24,19 @@ div a {
 .btn {
   font-size: 1.125rem;
   background-color: #333;
-  color: #fff;
 }
 
 .btn:hover {
   background-color: #000;
-  color: #fff;
 }
 
 .btn-subtle {
   font-size: 1.125rem;
   background-color: #ccc;
-  color: #fff;
 }
 
 .btn-subtle:hover {
   background-color: #666;
-  color: #fff;
 }
 
 .btn-ghost {
@@ -57,29 +54,25 @@ div a {
 .btn-warning {
   font-size: 1.125rem;
   background-color: #f33;
-  color: #fff;
 }
 
 .btn-warning:hover {
   background-color: #933;
-  color: #fff;
+
 }
 
 .btn-small {
   font-size: .875rem;
   background-color: #333;
-  color: #fff;
 }
 
 .btn-small:hover {
   background-color: #000;
-  color: #fff;
 }
 
 .grey-small {
   font-size: .875rem;
   background-color: #ccc;
-  color: #fff;
 }
 
 .grey-small:hover {
@@ -96,40 +89,33 @@ div a {
 
 .ghost-small:hover {
   background-color: #666;
-  color: #fff;
 }
 
 .warning-small {
   font-size: .875rem;
   background-color: #f33;
-  color: #fff;
 }
 
 .warning-small:hover {
   background-color: #933;
-  color: #fff;
 }
 
 .btn-big {
   font-size: 1.5rem;
   background-color: #333;
-  color: #fff;
 }
 
 .btn-big:hover {
   background-color: #000;
-  color: #fff;
 }
 
 .subtle-big {
   font-size: 1.5rem;
   background-color: #ccc;
-  color: #fff;
 }
 
 .subtle-big:hover {
   background-color: #666;
-  color: #fff;
 }
 
 .ghost-big {
@@ -147,10 +133,8 @@ div a {
 .warning-big {
   font-size: 1.5rem;
   background-color: #f33;
-  color: #fff;
 }
 
 .warning-big:hover {
   background-color: #933;
-  color: #fff;
 }
